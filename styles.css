@@ -57,6 +57,15 @@ p {
   padding-top: 20px;
 }
 
+.icon-back-arrow {
+  width: 30px;
+  height: 30px;
+}
+
+.icon-back-arrow svg {
+  color: #3498db;
+}
+
 @media (max-width: 667px) {
   body {
     padding: 10px;
